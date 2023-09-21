@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jon Lara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.ibb.co/b719GQ0/yellow-Jon.jpg" width="230">
+<img align='right' src="https://i.ibb.co/82Hqm5C/IMG-0180.jpg" width="230">
 <p><em>Backend developer at <a href="https://rebellionpay.com">Rebellion pay</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Studying at <a href="https://deusto.es">University of Deusto</a>
 </em></p>
 
